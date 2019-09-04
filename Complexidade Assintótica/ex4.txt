@@ -1,0 +1,1 @@
+4) Sim, e não, porque não irei encontrar um valor maior de 2^n*2^n, seria uma big o de um fatorial.
